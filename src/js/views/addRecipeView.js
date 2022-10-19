@@ -1,5 +1,6 @@
 import View from './View.js';
 import icons from 'url:../../img/icons.svg'; // parcel v2
+import { Fraction } from 'fractional';
 
 class AddRecipeView extends View {
   _parentEl = document.querySelector('.upload');
@@ -33,14 +34,8 @@ class AddRecipeView extends View {
   addHandlerUpload(handler) {
     this._parentEl.addEventListener('submit', function (e) {
       e.preventDefault();
-      const test = new FormData(this);
-      const test2 = [new FormData(this)];
       const dataArr = [...new FormData(this)];
       const data = Object.fromEntries(dataArr);
-      console.log(test);
-      console.log(test2);
-      console.log(dataArr);
-      console.log(data);
       handler(data);
     });
   }
