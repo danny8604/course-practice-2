@@ -130,7 +130,7 @@ const controAddRecipe = async function (newRecipe) {
     }, MODAL_CLOSE_SEC * 1000);
 
     // Success message
-    addRecipeView.renderMessage();
+    // addRecipeView.renderMessage();
 
     // Render bookmark view
     bookmarksView.render(model.state.bookmarks);
