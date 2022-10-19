@@ -1,5 +1,7 @@
 import icons from 'url:../../img/icons.svg'; // parcel v2
 
+const Fraction = require('fractional').Fraction;
+
 export default class View {
   _data;
 
