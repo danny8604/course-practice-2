@@ -9,7 +9,6 @@ import addRecipeView from './views/addRecipeView.js';
 
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
-import { forInRight, result } from 'lodash-es';
 import { async } from 'regenerator-runtime';
 
 // https://forkify-api.herokuapp.com/v2
