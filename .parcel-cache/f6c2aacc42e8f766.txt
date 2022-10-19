@@ -1,4 +1,4 @@
-7669
+7670
 148C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\typed-array\from-async.js133106872293096410 0
 136C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\lightningcss\node\index.js133106872270055639 0
 160C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133106872279514152 0
@@ -20,7 +20,7 @@
 130C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\terser\dist\.gitkeep133106872268173920 0
 144C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-css\package.json133106872270235782 0
 149C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\dom-collections\index.js133106872295809112 0
-101C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\dist133106897183887927 1
+101C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\dist133106904979038965 1
 139C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\cache\lib\IDBCache.js133106872271216681 0
 160C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext133106872281085577 1
 164C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133106872271727136 0
@@ -94,18 +94,18 @@
 153C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\virtual\trim-right.js133106872310993818 0
 124C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable133106872313015632 1
 131C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\xxhash-wasm\README.md133106872272107469 0
-105C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\sass132886955210000000 1
+105C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\sass133106903040625144 1
 142C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries133106872269615236 1
 138C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\keys.js133106872300153031 0
 141C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\AT.js133106872277091972 0
 134C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\lib\svgo\plugins.js133106872277071959 0
-109C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\package.json133106895376275455 0
+109C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\package.json133106903590706348 0
 158C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\iterator-create-constructor.js133106872299382327 0
 149C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-svg\src\SVGPackager.js133106872269655256 0
 153C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\string\virtual\trim-right.js133106872310863691 0
 129C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\weak-lru-cache\dist133106872268163917 1
 121C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@jridgewell133106872256632270 1
-112C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js\model.js133106873170536458 0
+112C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js\model.js133106904174951080 0
 106C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\README.md133106827330373527 0
 139C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\lib\procedure.d.ts133106872276791700 0
 143C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\weak-lru-cache\tests\benchmark.js133106872269064737 0
@@ -124,8 +124,6 @@
 159C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\number\virtual\to-exponential.js133106872309092124 0
 121C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\safe-buffer133106872270425966 1
 100C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src132886955210000000 1
-123C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js\views\fractional.js133106894110133191 0
-148C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\math\to-string-tag.js133106872310313188 0
 104C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\img132886955210000000 1
 224C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm\package.json133106872279203886 0
 145C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\reporter-dev-server\LICENSE133106872268334080 0
@@ -138,7 +136,7 @@
 141C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\number\is-nan.js133106872298751765 0
 153C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.array.find-last-index.js133106872284959065 0
 147C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.promise.finally.js133106872286280263 0
-103C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js133106808614066097 1
+103C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js133106903040625144 1
 143C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\graph\src\ContentGraph.js133106872272027401 0
 143C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\symbol\iterator.js133106872299702624 0
 153C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\object\get-prototype-of.js133106872294017252 0
@@ -192,7 +190,7 @@
 155C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\virtual\copy-within.js133106872282957270 0
 118C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\sass\_header.scss132886955210000000 0
 147C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\cosmiconfig\dist\getPropertyByPath.js133106872271336782 0
-117C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js\views\View.js133106892033180870 0
+117C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js\views\View.js133106904061564886 0
 188C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\a133106872277282156 1
 138C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\cosmiconfig\dist\Explorer.js133106872269495127 0
 125C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\sass\_searchResults.scss132886955210000000 0
@@ -217,6 +215,11 @@
 121C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\css133106872270385921 1
 116C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@babel133106872256712330 1
 138C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\push.js133106872303306090 0
+158C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\html-media-capture.js133106872284148338 0
+152C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\proposals\object-values-entries.js133106872302275161 0
+141C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\strike.js133106872307820978 0
+122C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js\views\declare.d.ts133106901516436592 0
+118C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\escalade133106872271627050 1
 117C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133106889548881920 0
 140C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\proposals\string-at.js133106872308001133 0
 156C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.symbol.async-dispose.js133106872289423098 0
@@ -224,13 +227,27 @@
 142C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\nth-check\lib\esm\index.d.ts.map133106872272948228 0
 141C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\PG.js133106872286710645 0
 153C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\type-fest\source\union-to-intersection.d.ts133106872277091972 0
+152C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.object.lookup-getter.js133106872286110105 0
+128C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\yaml\dist\index.js133106872272057430 0
+129C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\semver\package.json133106872270766266 0
+138C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\map\find.js133106872291374862 0
+119C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\callsites133106872270335875 1
+148C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\typed-array\iterator.js133106872299482418 0
+124C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\supports-color133106872270275816 1
+182C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\index.js133106872276641569 0
+148C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\instance\find-last-index.js133106872290974491 0
+148C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\terser\lib\utils\first_in_statement.js133106872276751667 0
+151C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\virtual\substr.js133106872308651720 0
+134C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\src\compression.cpp133106872279103792 0
+141C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.math.cosh.js133106872285569622 0
+116C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js\declare.d.ts133106901516436592 0
 165C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\highlight\node_modules\color-name\.eslintrc.json133106872271296738 0
 126C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\css-what\LICENSE133106872268264016 0
 138C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\versioned_docs133106872277942733 1
 139C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\immutable\dist\immutable.d.ts133106872273538761 0
 154C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\node_modules\node-addon-api\except.gypi133106872269845444 0
-114C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js\helpers.js133106851475699120 0
-109C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js\views133106894110133191 1
+114C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js\helpers.js133106904145213970 0
+109C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js\views133106904841038701 1
 146C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\diagnostic\src\diagnostic.js133106872269835432 0
 153C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\utils\test\input\config\config.json133106872278873577 0
 146C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\webgl2.js133106872289222910 0
@@ -279,7 +296,7 @@
 124C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\ordered-binary133106872272287633 1
 151C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\namer-default\src\DefaultNamer.js133106872269675279 0
 144C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\engine-is-ios.js133106872284378548 0
-123C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js133106896992412980 0
+123C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js133106902345590084 0
 136C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\react-refresh\package.json133106872272067441 0
 153C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\typed-array\uint8-array.js133106872311694448 0
 141C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\terser\lib\compress\evaluate.js133106872276661591 0
@@ -304,13 +321,6 @@
 143C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\instance\flat.js133106872292165570 0
 154C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\lib\_class_private_field_set.js133106872276101076 0
 113C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\src\img\logo.png132886955210000000 0
-133C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\weak-set133106872298001087 1
-119C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\dist133106872278713435 1
-155C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\posthtml\node_modules\posthtml-parser\license133106872268414148 0
-135C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\csso\lib\replace\color.js133106872273408645 0
-145C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\trim-right.js133106872310993818 0
-127C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\get-port\index.js133106872269354988 0
-122C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite133106872289603253 1
 128C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\domelementtype\lib133106872272247598 1
 141C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\lib\svgo\css-class-list.js133106872276021006 0
 129C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\escalade\index.d.ts133106872271697105 0
@@ -371,13 +381,13 @@
 221C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down\foo\bar\baz\real-bar.js133106872278663387 0
 121C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\buffer-from133106872269785389 1
 137C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\math\sinh.js133106872306379674 0
-152C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.object.lookup-getter.js133106872286110105 0
-128C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\yaml\dist\index.js133106872272057430 0
-129C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\semver\package.json133106872270766266 0
-138C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\map\find.js133106872291374862 0
-119C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\callsites133106872270335875 1
-148C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\typed-array\iterator.js133106872299482418 0
-124C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\supports-color133106872270275816 1
+133C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\weak-set133106872298001087 1
+119C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\dist133106872278713435 1
+155C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\posthtml\node_modules\posthtml-parser\license133106872268414148 0
+135C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\csso\lib\replace\color.js133106872273408645 0
+145C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\trim-right.js133106872310993818 0
+127C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\get-port\index.js133106872269354988 0
+122C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite133106872289603253 1
 150C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\virtual\reduce.js133106872303716456 0
 163C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\call-with-safe-iteration-closing.js133106872281505962 0
 133C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\function133106872301874801 1
@@ -527,7 +537,6 @@
 137C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array-buffer133106872306549820 1
 147C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.weak-map.of.js133106872289673317 0
 118C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\error-ex133106872269755365 1
-118C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\escalade133106872271627050 1
 130C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\escape-string-regexp133106872269755365 1
 139C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\weak-lru-cache\dist\index.cjs133106872268434165 0
 170C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133106872277972763 0
@@ -969,10 +978,6 @@
 142C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\typed-array\of.js133106872302455323 0
 152C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\typed-array\to-locale-string.js133106872309632581 0
 127C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\yaml\parse-cst.js133106872275980979 0
-137C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\set\index.js133106872297931027 0
-150C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\number\virtual\index.js133106872297090263 0
-129C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\stable\package.json133106872268173920 0
-152C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array-buffer\constructor.js133106872282727061 0
 144C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\instance\unshift.js133106872312114820 0
 124C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\yaml\schema.js133106872276951853 0
 127C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\yaml\dist\util.js133106872277672509 0
@@ -1137,7 +1142,6 @@
 135C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\sass\sass.default.dart.js133106872278172948 0
 155C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-postcss\src\loadConfig.js133106872270806305 0
 145C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\yaml\browser\dist\legacy-exports.js133106872272407743 0
-144C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\number\parse-int.js133106872302915735 0
 140C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\yaml\browser\dist\package.json133106872277892696 0
 133C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\weak-lru-cache\index.js133106872269595211 0
 140C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\yaml\browser\dist\parse-cst.js133106872275600631 0
@@ -1546,11 +1550,6 @@
 152C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\typed-array\to-spliced.js133106872310183078 0
 129C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\acorn\dist\acorn.js133106872271196651 0
 126C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\terser\lib\utils133106872277011912 1
-182C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\index.js133106872276641569 0
-148C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\instance\find-last-index.js133106872290974491 0
-148C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\terser\lib\utils\first_in_statement.js133106872276751667 0
-151C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\virtual\substr.js133106872308651720 0
-134C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\src\compression.cpp133106872279103792 0
 127C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\src\misc.cpp133106872279293956 0
 140C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\concat.js133106872282276662 0
 142C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\blink.js133106872281275753 0
@@ -1765,6 +1764,10 @@
 142C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\web.immediate.js133106872312685325 0
 147C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\rellist.js133106872287151041 0
 127C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\stable\index.d.ts133106872268704405 0
+137C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\set\index.js133106872297931027 0
+150C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\number\virtual\index.js133106872297090263 0
+129C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\stable\package.json133106872268173920 0
+152C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array-buffer\constructor.js133106872282727061 0
 124C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\chokidar\types133106872271967351 1
 126C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\stable\README.md133106872269304954 0
 159C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-image\src\ImageTransformer.js133106872269635256 0
@@ -3301,7 +3304,6 @@
 133C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\csso\lib\replace\atrule133106872277051937 1
 136C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\map\key-of.js133106872299962851 0
 143C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.reflect.get.js133106872286400375 0
-140C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\fill.js133106872290093695 0
 144C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\array\find-index.js133106872290604161 0
 144C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\number\is-finite.js133106872298551580 0
 136C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\csso\lib\replace\Atrule.js133106872272497827 0
@@ -3758,9 +3760,6 @@
 142C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\replace.js133106872304777418 0
 134C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\string\sub.js133106872308501587 0
 140C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\small.js133106872306649912 0
-158C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\html-media-capture.js133106872284148338 0
-152C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\proposals\object-values-entries.js133106872302275161 0
-141C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\strike.js133106872307820978 0
 138C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\sup.js133106872308761824 0
 150C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\dom-collections\iterator.js133106872299622544 0
 161C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\background-attachment.js133106872277852653 0
@@ -3833,6 +3832,7 @@
 150C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\string\virtual\trim-left.js133106872310813637 0
 139C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\object\seal.js133106872305047663 0
 142C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\number\epsilon.js133106872284758896 0
+144C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\number\parse-int.js133106872302915735 0
 144C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.string.small.js133106872286860780 0
 148C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\lib\_wrap_native_super.js133106872279193880 0
 149C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\number\to-exponential.js133106872309122144 0
@@ -4158,7 +4158,6 @@
 136C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\set\reduce.js133106872303846572 0
 142C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.math.clz32.js133106872285559618 0
 146C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\math\seeded-prng.js133106872305387967 0
-141C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.math.cosh.js133106872285569622 0
 128C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\logger\lib133106872268854546 1
 142C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.math.expm1.js133106872285579637 0
 140C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\math\imulh.js133106872295292863 0
@@ -4774,7 +4773,7 @@
 146C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\path2d.js133106872286630575 0
 140C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\weak-map\index.js133106872297680792 0
 137C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\weak-map\of.js133106872302435307 0
-119C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133106897183827863 0
+119C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133106904978978912 0
 142C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\Parcel.test.js133106872279534172 0
 149C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\url-search-params\index.js133106872297660776 0
 150C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\reporter-cli\src\bundleReport.js133106872268994664 0
@@ -5404,6 +5403,7 @@
 140C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\math\scale.js133106872304977597 0
 151C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\input-range.js133106872284628778 0
 139C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\math\sinh.js133106872306359668 0
+148C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\math\to-string-tag.js133106872310313188 0
 132C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\browserslist\README.md133106872272017401 0
 144C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\map\delete-all.js133106872283667900 0
 139C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\src\constants.js133106872278002792 0
@@ -5495,6 +5495,7 @@
 142C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\concat.js133106872282206595 0
 153C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-image-set.js133106872281135627 0
 141C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\every.js133106872289793425 0
+140C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\fill.js133106872290093695 0
 139C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\global-this.js133106872294452102 0
 149C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\filter-reject.js133106872290273858 0
 146C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\find-index.js133106872290684229 0
@@ -7664,7 +7665,7 @@
 120C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133106873083708165 0
 120C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\dist\index.0e8dc407.css133106728053008367 0
 124C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\dist\index.0e8dc407.css.map133106728053128490 0
-123C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133106897183877912 0
+123C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133106904979028953 0
 120C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133106873083548020 0
 124C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133106873083608078 0
 119C:\Users\zx320\Desktop\course-material-v2.1\complete-javascript-course-master\18-forkify\starter\dist\logo.8a7af738.png133106728052998356 0
